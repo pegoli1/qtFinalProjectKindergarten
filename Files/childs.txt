@@ -1,0 +1,12 @@
+Amir  Babaei  Tehran  92337372  10  200000  True
+Reza  Salami  Tehran  32424733  5  100000  True
+Amir  Babaei  Tehran  92337372  10  150000  False
+Amir  Behi  Tehran  92337372  10  200000  True
+Goli  Babaei  Tehran  92337372  10  200000  True
+Mohammad  Babaei  Tehran  92337372  10  50000  False
+Amir  Akhavan  Tehran  92337372  10  200000  True
+Amir  Babaei  Tehran  92337372  10  200000  True
+Ali  Sadati  Tehran  92337372  10  200000  True
+Amir  Babaei  Tehran  92337372  7  200000  True
+Saba  Badssdbaei  Tehran  92337372  3  200000  True
+Amir  Babaei  Tehran  92337372  10  200000  True

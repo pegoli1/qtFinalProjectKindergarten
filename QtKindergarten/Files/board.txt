@@ -1,0 +1,3 @@
+bord1  Red  100  200  4000
+bord2  Green  150  150  3000
+bord3  White  120  200  3500

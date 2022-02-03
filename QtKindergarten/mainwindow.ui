@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>709</width>
+    <height>540</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>709</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuCreate">
+    <property name="title">
+     <string>Create</string>
+    </property>
+    <addaction name="menuBoard"/>
+    <addaction name="mnuDesk"/>
+   </widget>
+   <widget class="QMenu" name="menuRegister">
+    <property name="title">
+     <string>Register</string>
+    </property>
+    <addaction name="mnuChild"/>
+   </widget>
+   <widget class="QMenu" name="menuKindergarten">
+    <property name="title">
+     <string>Kindergarten</string>
+    </property>
+    <addaction name="menuAmin"/>
+    <addaction name="mnuShow"/>
+   </widget>
+   <addaction name="menuCreate"/>
+   <addaction name="menuRegister"/>
+   <addaction name="menuKindergarten"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="menuBoard">
+   <property name="text">
+    <string>Board</string>
+   </property>
+  </action>
+  <action name="mnuDesk">
+   <property name="text">
+    <string>Desk</string>
+   </property>
+  </action>
+  <action name="mnuChild">
+   <property name="text">
+    <string>Child</string>
+   </property>
+  </action>
+  <action name="menuAmin">
+   <property name="text">
+    <string>Admin</string>
+   </property>
+  </action>
+  <action name="mnuShow">
+   <property name="text">
+    <string>Show</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

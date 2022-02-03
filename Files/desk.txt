@@ -1,0 +1,4 @@
+Desk1  Blue  200  110  1000
+Desk2  Red  130  70  700
+Desk3  Black  100  70  600
+Desk4  Yellow  200  100  1500
