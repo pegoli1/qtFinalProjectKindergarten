@@ -12,5 +12,5 @@ Hope You Enjoy !!  :)
 
 For Ideas And Questions Contact Me 
 
-Programmer : Pegah Abbas Zade
-Gmail : PegahAbbasZade@fmail.com
+Programmer : Pegah Abbas Zadeh
+Gmail : Pegahabaszadeh98@gmail.com
